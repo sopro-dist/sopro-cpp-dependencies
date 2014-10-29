@@ -1,0 +1,11 @@
+# The Open-SSL Library
+win32/OpenSSL-Win32
+
+# Generated stuff
+win32/libOTX.a
+win32/libcurl.a
+win32/libjsoncpp.a
+win32/liblibidn.a
+win32/libnmcrpc.a
+win32/libbitcoin-api.a
+
