@@ -9,3 +9,5 @@ win32/liblibidn.a
 win32/libnmcrpc.a
 win32/libbitcoin-api.a
 
+win32/libgmock.a
+win32/libgtest.a
